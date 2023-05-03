@@ -1,4 +1,5 @@
 # NRG
-#### Inspired by $DeFi$, Decentralized Power Trading System, also known as SmartGrid.
-#### Blockchain Challenge @Uni.Basel
+
+##### Blockchain Challenge, University of Basel
+Inspired by $DeFi$, Decentralized Power Trading System, also known as SmartGrid.
  
