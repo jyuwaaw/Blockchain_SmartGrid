@@ -1,0 +1,29 @@
+D:\VSCode\Truffle\MetaCoin>truffle test
+Using network 'development'.
+
+
+Compiling your contracts...
+===========================
+> Compiling .\contracts\NRG.sol
+> Compiling .\contracts\NRG.sol
+> Compiling .\test\Test_NRG.sol
+> Artifacts written to C:\Users\benj-\AppData\Local\Temp\test--23288-hNBRAX71cNE5
+> Compiled successfully using:
+   - solc: 0.8.13+commit.abaa5c0e.Emscripten.clang
+
+
+  TestNRG
+    ✔ test_beforeAll (405ms)
+    ✔ test_calPrice (802ms)
+    ✔ test_authorization (692ms)
+    ✔ test_extraPower (495ms)
+    ✔ test_transfer (651ms)
+    ✔ test_powerConsume (513ms)
+    ✔ test_userEnquire (569ms)
+    ✔ test_adminEnquire (703ms)
+    ✔ test_powerTarget (547ms)
+    ✔ test_powerGenTotal (701ms)
+    ✔ test_fetchInfomation (671ms)
+
+
+  11 passing (22s)
