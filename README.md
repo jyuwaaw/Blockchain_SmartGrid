@@ -17,4 +17,4 @@
 <p align="center">Blockchain Challange, University of Basel</p>
 <br />
 
-Initiator @Kellydai
+Initiator @Kellydai Cooperators @Shawn-MY @jyuwaaw
